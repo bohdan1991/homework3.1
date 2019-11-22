@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+
+    background-color: #a52a2a;
+
+    color: white;
+    width: 100%;
+
+}
+
+img[alt="sunset"] {
+    width: 100%;
+}
+
+.text {
+ font-size: 18px;
+}
+span {
+    color: #2608ff;
+}
+.car{
+    text-align: center; 
+}
+
+img[alt="car"] {
+    text-align: center;
+
+    border: dashed;
+}
+
+footer {
+    background-color: black;
+    
+    text-align: center;
+}
+.footer__text {
+    font-size: 20px;
+    color: white;
+}
